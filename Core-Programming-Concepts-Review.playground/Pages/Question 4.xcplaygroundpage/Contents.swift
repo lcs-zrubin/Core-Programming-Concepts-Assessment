@@ -1,23 +1,25 @@
 /*:
  [Previous](@previous)
+ ### Learning Goal
+
+ * Goal 2: Programming
+    * *Thinking*
+        * I know when to use different data types (integers, floating point, Boolean, strings, et cetera) and data structures and can explain why it is important to use the correct data type or structure.
+
  # Question 4
  
- Imagine you are creating an app to track food usage in the LCS Dining Hall to help reduce food waste.
+ You are creating an app to help people be aware of how much time they spend on their phone.
  
- The kitchen staff and TOD will use your app to track the following information:
+ For a given day, this information will be tracked:
  
- * Diners: the total number of people who ate at a single meal
- * Salad bar: the total quantity of salad bar items consumed by mass (in kilograms)
- * Soup: the total volume of soup consumed by mass (in litres)
- * Main course: the total mass of main course (hot items) consumed by mass (in kilograms)
- * Pizza oven: the total mass of items consumed that were made in the pizza oven, by mass (in kilograms)
- * Date: The date of the meal (e.g.: Thursday, January 18, 2018)
- * Time frame: The time frame of the meal (e.g.: 11:30 AM to 1:00 PM)
+ * Apps: the number of different apps used today on your phone
+ * Hours: the total number of hours (including part of an hour) that the screen was on
+ * Most popular app: the name of the app that you used the most on a given day
+ * Date: the current date (e.g.: Thursday, January 18, 2018)
  
- Declare constants for each of these items, **but be sure to choose the appropriate data type in each case**.
+ **Choose the appropriate data type for each piece of information**.
  
- Then, use `print()` statements to explain why you chose a particular data type for each constant.
- 
+ **Then, use `print()` statements to explain why you chose a particular data type for a given piece of information.**
  
  */
 // Answer question 4 below
@@ -31,9 +33,9 @@
  [al]:
  https://www.youtube.com/watch?v=Wa3Wl3T25jo&list=PLTGGOQnktyWs9TlNJ30pgYgypvIGrt3Lx&index=1
  
- ### Learning Goals - Programming
+ ### Learning Goal
  
- * Goal 2
+ * Goal 2: Programming
     * *Thinking*
         * I know when to use different data types (integers, floating point, Boolean, strings, et cetera) and data structures and can explain why it is important to use the correct data type or structure.
  
