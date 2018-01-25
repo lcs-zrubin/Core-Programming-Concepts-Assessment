@@ -38,7 +38,7 @@ print("A temperature in degrees Celsius of \(tc) is equal to \(tf) in degrees Fa
  [al]:
  https://www.youtube.com/watch?v=Wa3Wl3T25jo&list=PLTGGOQnktyWs9TlNJ30pgYgypvIGrt3Lx&index=1
  
- ### Learning Goals - Software Development
+ ### Learning Goal
  
  * Software Development: Goal 8
     * *Communication*
