@@ -1,26 +1,27 @@
 /*:
  [Previous](@previous)
+ ### Learning Goal
+ 
+ * Programming: Goal 5
+    * *Knowledge*
+        * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
+ 
  # Question 5
  
- Imagine you're trying to decide whether or not to go on a walk.
+ Imagine you run a ski resort.
  
- You decide that you'll go on a walk if it's not raining **or** if it's more than 20C and sunny out.
+ You are trying to write an app that will automatically tell people whether the ski hill is open or not.
  
- **First**, create a constant `isNiceWeather` that is equal to an expression that evaluates to a boolean indicating whether or not the weather is nice enough for you to go for a walk.
+ The ski hill will open when the new snowfall amount is more than 10 centimetres, or, when the temperature is lower than -5 Celsius and the snow making equipment is working.
  
- **Second**, write an if statement that will print "I'm going for a walk!" if the weather is nice or "I'll stay inside today." if the weather is not suitable for a walk.
+ **Write an `if` statement that will print `We're open!` when conditions are suitable, or, `We're closed.` in all other cases.**
  
- - note: There are two situations here to consider.
-    1. Going for a walk if it's not raining out.
-    2. Going for a walk if it's more than 20C and sunny out.
- 
-    Make sure your code reports you going for a walk for both conditions!
- 
+ - note:
     You'll need to adjust the value of the constants immedidately below to test your code thoroughly.
  */
-let temperatureInCelsius = 15
-let isRaining = true
-let isSunny = true
+let newSnowfallAmount = 9
+let temperatureInCelsius = -6
+let isSnowMakingEquipmentWorking = false
 
 // Answer question 5 below
 
@@ -34,11 +35,12 @@ let isSunny = true
  [al]:
  https://www.youtube.com/watch?v=Wa3Wl3T25jo&list=PLTGGOQnktyWs9TlNJ30pgYgypvIGrt3Lx&index=1
  
- ### Learning Goals - Programming
+ ### Learning Goal
  
- * Goal 5
+ * Programming: Goal 5
     * *Knowledge*
         * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
  
  [Next](@next)
  */
+
