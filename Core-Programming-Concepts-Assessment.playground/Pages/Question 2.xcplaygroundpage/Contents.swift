@@ -1,6 +1,6 @@
 /*:
  [Previous](@previous)
-### Learning Goal
+ ### Learning Goal
  
  * Programming: Goal 1
     * *Knowledge*

@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		81FE26D71FE29C9C005ABE3E /* Core-Programming-Concepts-Review.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Core-Programming-Concepts-Review.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		81FE26D71FE29C9C005ABE3E /* Core-Programming-Concepts-Assessment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Core-Programming-Concepts-Assessment.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		81FE26C41FE29C33005ABE3E = {
 			isa = PBXGroup;
 			children = (
-				81FE26D71FE29C9C005ABE3E /* Core-Programming-Concepts-Review.playground */,
+				81FE26D71FE29C9C005ABE3E /* Core-Programming-Concepts-Assessment.playground */,
 			);
 			sourceTree = "<group>";
 		};
@@ -28,7 +28,7 @@
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Russell Gordon";
 			};
-			buildConfigurationList = 81FE26C81FE29C33005ABE3E /* Build configuration list for PBXProject "Core-Programming-Concepts-Review" */;
+			buildConfigurationList = 81FE26C81FE29C33005ABE3E /* Build configuration list for PBXProject "Core-Programming-Concepts-Assessment" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -154,7 +154,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		81FE26C81FE29C33005ABE3E /* Build configuration list for PBXProject "Core-Programming-Concepts-Review" */ = {
+		81FE26C81FE29C33005ABE3E /* Build configuration list for PBXProject "Core-Programming-Concepts-Assessment" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				81FE26D21FE29C33005ABE3E /* Debug */,
