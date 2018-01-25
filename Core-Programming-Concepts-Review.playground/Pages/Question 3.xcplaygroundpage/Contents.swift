@@ -1,5 +1,11 @@
 /*:
  [Previous](@previous)
+ ### Learning Goal
+ 
+ * Programming: Goal 4
+    * *Knowledge*
+        * I know how to use assignment statements, including compound assignment operators, when appropriate.
+
  # Question 3
  
  Create a variable of type `Double` called `spendingMoney` that begins at 0.
@@ -27,9 +33,9 @@
  [al]:
  https://www.youtube.com/watch?v=Wa3Wl3T25jo&list=PLTGGOQnktyWs9TlNJ30pgYgypvIGrt3Lx&index=1
  
- ### Learning Goals - Programming
+ ### Learning Goal
  
- * Goal 4
+ * Programming: Goal 4
     * *Knowledge*
         * I know how to use assignment statements, including compound assignment operators, when appropriate.
   
