@@ -21,7 +21,7 @@
  */
 let newSnowfallAmount = 9
 let temperatureInCelsius = -6
-let isSnowMakingEquipmentWorking = false
+let isSnowMakingEquipmentBroken = true
 
 // Answer question 5 below
 
