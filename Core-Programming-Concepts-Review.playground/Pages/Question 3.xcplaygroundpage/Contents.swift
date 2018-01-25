@@ -2,15 +2,18 @@
  [Previous](@previous)
  # Question 3
  
- Create a variable called `piggyBank` that begins at 0. You will use this to keep track of money you earn and spend. For each point below, use the right compound assignment operator to update the balance in your piggy bank.
+ Create a variable of type `Double` called `spendingMoney` that begins at 0.
  
- - Your neighbor gives you 10 dollars for mowing her lawn
- - You earn 20 more dollars throughout the week doing odd jobs
- - You spend half your money on dinner and a movie
- - You triple what's left in your piggy bank by washing windows
- - You spend 3 dollars at a convenience store
+ You will use this to keep track of money you earn and spend while at LCS.
  
- Print the balance of your piggy bank after each step.
+ For each point below, **use the correct compound assignment operator** to update your spending money balance.
+ 
+ - Your grandparents give you 50 dollars at the start of September
+ - You spend one third of your spending money by going bowling in Peterborough with your housemates
+ - You bet your friend that you'll earn a higher mark on a Math test, and you do, so he gives you 10 dollars
+ - Your friend bets you that he'll earn a higher mark on the next Science test, and he does, so you give him 10 dollars
+ - You spend $5.50 at Foodland on granola bars for the stash of food in your room
+ - For the holidays, a kind uncle doubles your spending money
  
  */
 // Answer question 3 below
