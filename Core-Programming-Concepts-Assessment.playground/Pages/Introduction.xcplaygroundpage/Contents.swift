@@ -1,5 +1,5 @@
 /*:
- # Introduction 
+ # Introduction  
  
  The purpose of this playground is to evaluate your mastery of these key programming concepts:
  
